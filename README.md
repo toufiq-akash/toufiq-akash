@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toufiq-akash" alt="toufiq-akash" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/akashkhan567" target="blank"><img src="https://img.shields.io/twitter/follow/akashkhan567?logo=twitter&style=for-the-badge" alt="akashkhan567" /></a> </p>
 
 - 🔭 I’m currently working on [a Budget Manager App](https://github.com/toufiq-akash/Budget-Manager)
 
